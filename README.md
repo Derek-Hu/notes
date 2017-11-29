@@ -9,3 +9,5 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 
 Mobile List:  https://www.mobilegazette.com/2008-phones-wallchart.htm
+
+http://httparchive.org/
