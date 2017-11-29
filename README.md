@@ -12,4 +12,4 @@ Mobile List:  https://www.mobilegazette.com/2008-phones-wallchart.htm
 
 http://httparchive.org/
 
-https://github.com/h5bp/html5-boilerplate
+服务器端配置示例： https://github.com/h5bp/html5-boilerplate
