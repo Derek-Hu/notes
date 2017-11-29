@@ -6,3 +6,6 @@ https://webpagetest.org/
 
 
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+
+
+Mobile List:  https://www.mobilegazette.com/2008-phones-wallchart.htm
